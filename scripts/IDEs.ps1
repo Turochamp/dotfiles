@@ -9,4 +9,4 @@ choco install -y ozcode-vs2022
 choco install -y vscode
 
 # Used to install manually JetBrains IDEs and tools (Rider, .NET Tools)
-winget install -e -h --id JetBrains.Toolbox
+# winget install -e -h --id JetBrains.Toolbox
