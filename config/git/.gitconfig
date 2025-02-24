@@ -1,5 +1,6 @@
 [user]
-	name = Alexandre Nedelec
+	name = Michael Åhs
+	email = mahs@inspirit365.com
 [fetch]
 	prune = true
 [pull]
@@ -36,3 +37,4 @@
 	defaultBranch = main
 [safe]
 	directory = C:/Users/alexandre.nedelec/dotfiles
+	directory = C:/Users/MichaelÅhs/dotfiles
